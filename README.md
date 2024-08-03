@@ -1,30 +1,14 @@
 <h1 align="center" style="color:#ff0090;">Hello! I'm Rafa 🖖</h1>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Chxpz/Chxpz/main/cyberpunk_city.gif" alt="Cyberpunk City" width="100%" />
-</p>
-
 <p align="center" style="color:#ff0090;">
   Welcome to my GitHub profile! I'm a passionate blockchain developer specializing in EVM and Solidity smart contract development.
 </p>
 
 <h2 align="center" style="color:#ff0090;">🚀 Skills</h2>
 
-- **Blockchain:**
-  - *EVM*
-  - *Solidity*
-  - *Solana*
-  - *CosmosSDK*
-- **Backend Development:**
-  - *JavaScript*
-  - *TypeScript*
-  - *Go*
-- **Tools:**
-  - 🐳 *Docker*
-  - *Git*
-  - 🐘 *PostgreSQL*
-  - *Foundry*
-  - 🔨 *Hardhat*
+- **Blockchain:** *EVM*, *Solidity*, *Solana*, *CosmosSDK*
+- **Backend Development:** *JavaScript*, *TypeScript*, *Go*
+- **Tools:** *Docker*, *Git*, *PostgreSQL*, *Foundry*, *Hardhat*
 
 <h2 align="center" style="color:#ff0090;">📈 GitHub Stats</h2>
 
