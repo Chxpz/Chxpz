@@ -6,7 +6,7 @@
 
 <h2 align="center" style="color:#ff0090;">🚀 Skills</h2>
 
-- **Blockchain:** *EVM*, *Solidity*, *Solana*, *Cosmos*
+- **Blockchain:** *EVM*, *Solidity*, *Solana*
 - **Backend Development:** *JavaScript*, *TypeScript*, *Go*, *Rust*
 - **Tools:** *Docker*, *Git*, *PostgreSQL*, *Foundry*, *Hardhat*
 
